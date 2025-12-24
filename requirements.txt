@@ -1,0 +1,17 @@
+--extra-index-url https://download.pytorch.org/whl/cu113
+torch==1.12.1+cu113
+torchvision==0.13.1+cu113
+
+huggingface_hub==0.23.0
+diffusers==0.16.0
+accelerate==0.28.0
+transformers==4.28.1
+pandas==1.5.2
+open_clip_torch==2.27.1
+scipy==1.10.1
+pytorch_fid==0.3.0
+pytorch_lightning==2.0.1.post0
+clip-anytorch==2.6.0
+openai-clip
+fairscale==0.4.13
+datasets==3.1.0
