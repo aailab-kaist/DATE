@@ -4,10 +4,9 @@
 
 --------------------
 
-This repository contains the official PyTorch implementation of  
-**"Diffusion Adaptive Text Embedding for Text-to-Image Diffusion Models"** in **[NeurIPS 2025](https://neurips.cc/Conferences/2025)**.
+This repository contains the official PyTorch implementation of **"Diffusion Adaptive Text Embedding for Text-to-Image Diffusion Models"** in **[NeurIPS 2025](https://neurips.cc/Conferences/2025)**.
 
-[Byeonghu Na](https://sites.google.com/view/byeonghu-na), [Minsang Park](https://aai.kaist.ac.kr/bbs/board.php?bo_table=sub2_1&wr_id=17), [Gyuwon Sim](https://aai.kaist.ac.kr/bbs/board.php?bo_table=sub2_1&wr_id=27), [Donghyeok Shin](https://sdh0818.github.io/), [HeeSun Bae](https://sites.google.com/view/baeheesun), [Mina Kang](https://aai.kaist.ac.kr/bbs/board.php?bo_table=sub2_1&wr_id=25), [Se Jung Kwon](https://www.linkedin.com/in/sejung-kwon), [Wanmo Kang](https://sites.google.com/site/wanmokang), and [Il-Chul Moon](https://aai.kaist.ac.kr/bbs/board.php?bo_table=sub2_1&wr_id=3)
+**[Byeonghu Na](https://sites.google.com/view/byeonghu-na), [Minsang Park](https://aai.kaist.ac.kr/bbs/board.php?bo_table=sub2_1&wr_id=17), [Gyuwon Sim](https://aai.kaist.ac.kr/bbs/board.php?bo_table=sub2_1&wr_id=27), [Donghyeok Shin](https://sdh0818.github.io/), [HeeSun Bae](https://sites.google.com/view/baeheesun), [Mina Kang](https://aai.kaist.ac.kr/bbs/board.php?bo_table=sub2_1&wr_id=25), [Se Jung Kwon](https://www.linkedin.com/in/sejung-kwon), [Wanmo Kang](https://sites.google.com/site/wanmokang), and [Il-Chul Moon](https://aai.kaist.ac.kr/bbs/board.php?bo_table=sub2_1&wr_id=3)**
 
 **KAIST, NAVER Cloud, summary.ai**
 
